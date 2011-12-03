@@ -1,8 +1,18 @@
-1322931179
+1322938919
 Application	C:/Sites/ridemo/config/application.rb	  class Application 
 ApplicationController	C:/Sites/ridemo/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/ridemo/app/helpers/application_helper.rb	module ApplicationHelper
 BrowsingTest	C:/Sites/ridemo/test/performance/browsing_test.rb	class BrowsingTest 
 Ridemo	C:/Sites/ridemo/config/application.rb	module Ridemo
 TestCase	C:/Sites/ridemo/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomController	C:/Sites/ridemo/app/controllers/welcom_controller.rb	class WelcomController 
+WelcomControllerTest	C:/Sites/ridemo/test/functional/welcom_controller_test.rb	class WelcomControllerTest 
+WelcomHelper	C:/Sites/ridemo/app/helpers/welcom_helper.rb	module WelcomHelper
+WelcomHelperTest	C:/Sites/ridemo/test/unit/helpers/welcom_helper_test.rb	class WelcomHelperTest 
+WelcomeController	C:/Sites/ridemo/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	C:/Sites/ridemo/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	C:/Sites/ridemo/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	C:/Sites/ridemo/test/unit/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+index	C:/Sites/ridemo/app/controllers/welcom_controller.rb	  def index
+index	C:/Sites/ridemo/app/controllers/welcome_controller.rb	  def index
 test_homepage	C:/Sites/ridemo/test/performance/browsing_test.rb	  def test_homepage
